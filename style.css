@@ -40,16 +40,15 @@ body{
 	border-width: 6px;
 }
 .conga{
-	margin-top: 300px;
-	padding-left: 20px; 
+	margin-top: 300px; 
 	position:absolute; 
 }
 .scout{
 	margin-left: -200px;
 }
 #merc{
-	height: 500px;
-	width: 500px;
+	height: 50%;
+	width: 50%;
 	margin-top: 20px;
 }
 .coconut{
